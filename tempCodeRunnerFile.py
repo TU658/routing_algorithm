@@ -1,1 +1,0 @@
-show_map(map_40, start=5, goal=34, path=[5,16,37,12,34])
